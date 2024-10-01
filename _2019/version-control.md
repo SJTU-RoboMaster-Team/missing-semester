@@ -353,11 +353,11 @@ if your push is rejected, what do you do?
 1. Once you get used to command line applications GUI tools can feel cumbersome/bloated. A nice compromise between the two are ncurses based tools which can be navigated from the command line and still provide an interactive interface. Git has [tig](https://github.com/jonas/tig), try installing it and running it in a repo. You can find some usage examples [here](https://www.atlassian.com/blog/git/git-tig).
 
 
-{% comment %}
+<!---
 
  - forced push + `--force-with-lease`
  - git merge/rebase --abort
  - git blame
  - exercise about why rebasing public commits is bad
 
-{% endcomment %}
+--->
