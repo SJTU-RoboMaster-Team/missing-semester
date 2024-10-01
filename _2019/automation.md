@@ -67,7 +67,7 @@ One caveat of using cron is that if the computer is powered off or asleep when t
 
 
 
-{% comment %}
+<!--
 
 - [fswatch](https://github.com/emcrisostomo/fswatch)
 - GUI automation (pyautogui) [Automating the boring stuff Chapter 18](https://automatetheboringstuff.com/chapter18/)
@@ -76,4 +76,4 @@ One caveat of using cron is that if the computer is powered off or asleep when t
 - https://xkcd.com/1205/
 - https://xkcd.com/1319/
 
-{% endcomment %}
+--->
