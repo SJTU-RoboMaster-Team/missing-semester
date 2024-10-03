@@ -35,7 +35,7 @@ This usually involves some software that is listening and, whenever a certain ke
 - Remapping PrtSc to Play/Pause music. Most OSes have a play/pause key.
 - Swapping Ctrl and the Meta (Windows or Command) key.
 
-You can also map keys to arbitrary commands of your choosing. This is useful for common tasks that you perform. Here, some software listens for a specific key combination and executes some script whenever that event is detected.
+You can also map keys to arbitrary commands of your choice. This is useful for common tasks that you perform. Here, some software listens for a specific key combination and executes some script whenever that event is detected.
 - Open a new terminal or browser window.
 - Inserting some specific text, e.g. your long email address or your MIT ID number.
 - Sleeping the computer or the displays.
@@ -410,3 +410,4 @@ well, your patch will be merged into the upstream repository. Often times,
 larger projects will have a contributing guide, tag beginner-friendly issues,
 and some even have mentorship programs to help first-time contributors become
 familiar with the project.
+
